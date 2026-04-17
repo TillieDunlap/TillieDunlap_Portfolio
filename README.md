@@ -1,2 +1,26 @@
-# TillieDunlap_Portfolio
-Portfolio
+# CS105/6/7/8 Portfolio
+# Tillie Dunlap
+## Portfolio
+Contact Info: [Email: matildadunlap@yahoo.com]
+### About Me 
+[Hello! I am an experienced nursing assistant and care professional with over 2 years of proven expertise in hospital and emergency department care. With skills in patient communication, care, machine management, and departmental communication, I am able to competently complete tasks, and achieve patient satisfaction. I am adept at using IV pumps, python coding, and AED use. My wide skill set, commitment to follow through, and passion for knowledge me as a valuable asset.  In my spare time, I like to play violin and paint.]
+
+### Education 
+[Capital High School - Charleston, West Virginia]
+***
+### Projects
+
+#### Project 1 Title
+ - Project 1 Summary
+ - [insert project 1 screenshot here]
+ - Project 1 Report
+***
+#### Project 2 Title
+ - Project 2 Summary
+ - [insert project 2 screenshot here]
+ - Project 2 Report
+***
+#### Project 3 Title
+ - Project 3 Summary
+ - [insert project 3 screenshot here]
+ - Project 3 Report
