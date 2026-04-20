@@ -20,6 +20,7 @@ Loyola University - Baltimore, Maryland
 #### Grade Calculator
  - I built a grade calculator that allows you to calculate weighted and unweighted grades.
  - ![Project 1.png](Assets/Project%201.png)_
+ - 
  - This program prompts the user to input scores of assignments and assessments. Then it prompts for category weights. It varifies the validity of the weighting before providing the end grades.
 ***
 
@@ -28,6 +29,7 @@ Loyola University - Baltimore, Maryland
  - Monthly Budget tracker that accounts for monetary in and monetary outs.
  - ![budget tracker.png](Assets/budget%20tracker.png)
  - [Excel Budget Link](https://studentsloyola-my.sharepoint.com/:x:/g/personal/madunlap_loyola_edu/IQApMnqiTMimRI84c-1inm0uAUIb94OH5gjToUKsv__Pcr4?email=cinweke%40loyola.edu&e=NRF1SD)
+ - This program allows you to input wages and specified bills as well as spending money to organize how you spend your money.
 ***
 
 
