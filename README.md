@@ -1,12 +1,18 @@
 # CS105/6/7/8 Portfolio
 # Tillie Dunlap
 ## Portfolio
-Contact Info: [Email: matildadunlap@yahoo.com]
+Contact Info: 
+
+Email: matildadunlap@yahoo.com
+
+(123) 456 7890
 ### About Me 
-[Hello! I am an experienced nursing assistant and care professional with over 2 years of proven expertise in hospital and emergency department care. With skills in patient communication, care, machine management, and departmental communication, I am able to competently complete tasks, and achieve patient satisfaction. I am adept at using IV pumps, python coding, and AED use. My wide skill set, commitment to follow through, and passion for knowledge me as a valuable asset.  In my spare time, I like to play violin and paint.]
+Hello! I am a graphic design and computer specialist with over 5 years of proven expertise in the workplace and education. With skills in computer communication, Adobe suits, machine management, and Python coding language, I am able to competently complete tasks, and achieve client satisfaction. I am certified at Adobe suits, and adept at heat press usage, 3D printing, and laser forge engraving and cutting. My wide skill set, commitment to follow through, and passion for knowledge make me a valuable asset.  In my spare time, I like to play violin and paint.
 
 ### Education 
-[Capital High School - Charleston, West Virginia]
+Capital High School - Charleston, West Virginia
+
+Loyola University - Baltimore, Maryland
 ***
 ### Projects
 
