@@ -20,7 +20,7 @@ Loyola University - Baltimore, Maryland
 #### Grade Calculator
  - I built a grade calculator that allows you to calculate weighted and unweighted totals in percentage and letter format.
  - ![Project 1.png](Assets/Project%201.png)
- - This program prompts 
+ - This program prompts the user to input scores of assingments and assessments. Then it prompts for category weights. It varifies the validity of the weighting
 ***
 #### Budget Tracker
  - Project 2 Summary
