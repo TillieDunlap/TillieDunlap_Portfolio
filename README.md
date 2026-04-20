@@ -17,12 +17,12 @@ Loyola University - Baltimore, Maryland
 ***
 ### Projects
 
-#### Project 1 Title
- - Project 1 Summary
+#### Grade Calculator
+ - I built a grade calculator that allows you to calculate weighted and unweighted totals in percentage and letter format.
  - ![Project 1.png](Assets/Project%201.png)
- - Project 1 Report
+ - This program prompts 
 ***
-#### Project 2 Title
+#### Budget Tracker
  - Project 2 Summary
  - [insert project 2 screenshot here]
  - Project 2 Report
