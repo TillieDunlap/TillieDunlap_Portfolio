@@ -18,9 +18,9 @@ Loyola University - Baltimore, Maryland
 ### Projects
 
 #### Grade Calculator
- - I built a grade calculator that allows you to calculate weighted and unweighted totals in percentage and letter format.
- - ![Project 1.png](Assets/Project%201.png)
- - This program prompts the user to input scores of assingments and assessments. Then it prompts for category weights. It varifies the validity of the weighting
+ - I built a grade calculator that allows you to calculate weighted and unweighted grades.
+ - ![Project 1.png](Assets/Project%201.png)_
+ - This program prompts the user to input scores of assignments and assessments. Then it prompts for category weights. It varifies the validity of the weighting before providing the end grades.
 ***
 #### Budget Tracker
  - Project 2 Summary
