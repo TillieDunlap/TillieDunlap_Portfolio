@@ -22,12 +22,16 @@ Loyola University - Baltimore, Maryland
  - ![Project 1.png](Assets/Project%201.png)_
  - This program prompts the user to input scores of assignments and assessments. Then it prompts for category weights. It varifies the validity of the weighting before providing the end grades.
 ***
+
+
 #### Budget Tracker
  - Monthly Budget tracker that accounts for monetary in and monetary outs.
  - ![budget tracker.png](Assets/budget%20tracker.png)
- - https://studentsloyola-my.sharepoint.com/:x:/g/personal/madunlap_loyola_edu/IQApMnqiTMimRI84c-1inm0uAUIb94OH5gjToUKsv__Pcr4?email=cinweke%40loyola.edu&e=NRF1SD
+ - Excel Viewing Link(https://studentsloyola-my.sharepoint.com/:x:/g/personal/madunlap_loyola_edu/IQApMnqiTMimRI84c-1inm0uAUIb94OH5gjToUKsv__Pcr4?email=cinweke%40loyola.edu&e=NRF1SD)
  - 
 ***
+
+
 #### Project 3 Title
  - Project 3 Summary
  - [insert project 3 screenshot here]
