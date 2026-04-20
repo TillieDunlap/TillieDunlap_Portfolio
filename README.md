@@ -1,4 +1,5 @@
 # CS105/6/7/8 Portfolio
+![banner.jpg](Assets/banner.jpg)
 # Tillie Dunlap
 ## Portfolio
 Contact Info: 
@@ -18,7 +19,7 @@ Loyola University - Baltimore, Maryland
 
 #### Project 1 Title
  - Project 1 Summary
- - [insert project 1 screenshot here]
+ - ![Project 1.png](Assets/Project%201.png)
  - Project 1 Report
 ***
 #### Project 2 Title
