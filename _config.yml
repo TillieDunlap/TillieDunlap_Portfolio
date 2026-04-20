@@ -3,5 +3,3 @@ logo: Assets/Profile.png
 description: me
 show_downloads: true
 theme: jekyll-theme-architect
-plugins: jekyll-remote-theme
-remote_theme: broccolini/swiss
