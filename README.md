@@ -1,7 +1,5 @@
 # CS105/6/7/8 Portfolio
 ![banner2.0.jpg](Assets/banner2.0.jpg)
-# Tillie Dunlap
-## Portfolio
 Contact Info: 
 
 Email: matildadunlap@yahoo.com
