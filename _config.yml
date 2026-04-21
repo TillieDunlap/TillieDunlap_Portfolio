@@ -1,5 +1,5 @@
 title: Tillie Dunlap
-logo: Assets/Profile.png
-description: me
-show_downloads: true
+logo: Profile.png
+#description:
+#show_downloads: false
 theme: jekyll-theme-slate
