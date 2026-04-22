@@ -9,9 +9,7 @@ Phone: (123) 456 7890
 
 ***
 
-### About Me 
-![Profile.png](Assets/Profile.png)
-
+### About Me
 Hello! I am a graphic design and computer specialist with over 5 years of proven expertise in the workplace and education. With skills in computer communication, Adobe suits, machine management, and Python coding language, I am able to competently complete tasks, and achieve client satisfaction. I am certified at Adobe suits, and adept at heat press usage, 3D printing, and laser forge engraving and cutting. My wide skill set, commitment to follow through, and passion for knowledge make me a valuable asset.  In my spare time, I like to play violin and paint.
 
 ***
