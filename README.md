@@ -24,10 +24,9 @@ Loyola University - Baltimore, Maryland
 ### Projects
 
 #### Grade Calculator
-I built a grade calculator that allows you to calculate weighted and unweighted grades.
+I built a grade calculator that allows you to calculate weighted and unweighted grades. This program prompts the user to input scores of assignments and assessments. Then it prompts for category weights. It varifies the validity of the weighting before providing the end grades.
 ![Project 1.png](Assets/Project%201.png)
 [Github Grade Calculator](https://github.com/LoyolaUnivMD/sp26-cs105-python-week-3-TillieDunlap/blob/main/Part1.py)
-This program prompts the user to input scores of assignments and assessments. Then it prompts for category weights. It varifies the validity of the weighting before providing the end grades.
 
 #### Budget Tracker
 This allows you to input wages and specified bills as well as spending money to organize how you spend your money.
@@ -37,7 +36,7 @@ It demonstrates handling multiple variables in concurrence. This project also ou
 
 #### Time Sheet
 This time sheet allows for incremental hours. It is set to a two-week schedule and contains signature and note boxes.
-It is cleanly put together and 
+It is cleanly put together and demonstrates it's use through necessity.
 ![timesheet excel.png](Assets/timesheet%20excel.png)
 [Excel Time Sheet](https://studentsloyola-my.sharepoint.com/:x:/r/personal/madunlap_loyola_edu/Documents/Tillie%20Dunlap_Excel%20Assessment_CS.106.01_1300.xlsx?d=w36e56a8da08a419e95fe84dbece4ece9&csf=1&web=1&e=NmOToC&nav=MTVfezlFRTNCMEVFLTJCMkEtNEVFNC04NzVBLTMxNDZCQjg0OUJGQ30)
 
